@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,1708 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1063.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da1ac7b918322fb4587ff15ed22c92a0
+      internalID: -2035106460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_1
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1063.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77b73bf7756c5b84b89e9029abbe5baf
+      internalID: 1399220801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1063.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26308ddae8181840807440d43f59c1e
+      internalID: -67002311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_3
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1063.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 288316fcca3b0a347aa60c4ae138ace7
+      internalID: 394105563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1063.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6287b554d5d2f438a508ccd0c614ec
+      internalID: 2055708982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1063.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e55ee748ab613804f9265e8939bd75af
+      internalID: -1780769116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_6
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1063.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c3df609cf654bd40b6547420c28fc5e
+      internalID: -420010545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_7
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 1063.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90cbeeec958d7a24a99c580a08eb3a82
+      internalID: -1796768146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_8
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 1063.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314496aaf308527488162f6ecd7eb0cb
+      internalID: 1326488956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 931.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a61ec638079888f47a9c87b512c192a1
+      internalID: -1790421688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_10
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 931.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17efd61fa80e0264084fbfbe8ca73e48
+      internalID: 639366791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_11
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 931.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47e9367cd1ccce45be27121840a4dff
+      internalID: 966248934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_12
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 931.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a36decf8d943ef42ac09b84220d309d
+      internalID: -1016093419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_13
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 931.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af401667be0368f40943286d152a4998
+      internalID: -1306614208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_14
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 931.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49db1dccadebdf141945b402bef9ea04
+      internalID: -1624680448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_15
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 931.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d5f1341c9aee8479056ab5a123c2fc
+      internalID: -1233192211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_16
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 931.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e24ba5c5c4e73045902f1020a10451a
+      internalID: 1068639523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_17
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 931.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e538855c7fd604bb5334545c20bea4
+      internalID: 524678117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 799.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0157a8596199c949a9d3e82cd2e241f
+      internalID: 1913733796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_19
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 799.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446965cec06b47b48908a5c9cb90c6c5
+      internalID: -1348429764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_20
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 799.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d670ddbf52ade43bf5262dc89c06e7
+      internalID: -81802897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_21
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 799.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17cffef73e4a9f94eab0330179ee7758
+      internalID: -1432884897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_22
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 799.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712550c83ff0dc345bc3082ffa28dd34
+      internalID: -1329528506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_23
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 799.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe33151e60501a44c9c240c8ba6a07e0
+      internalID: 1511041650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_24
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 799.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3828f3c07edecb749945b18cbebbcf8e
+      internalID: 933310702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_25
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 799.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71bbdc64aa33c2e4dae50c68fe52d5bd
+      internalID: 2139886671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_26
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 799.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887887f1a4643994f9bb88d363d13fea
+      internalID: 957776343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 667.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f9bcddf272589b42bac4afcb1a77975
+      internalID: -1453647586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_28
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 667.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24cad05434ac954fb394c081528a822
+      internalID: 1020187216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_29
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 667.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681c60b461b3ad14ab1887a4280cb4d3
+      internalID: 1452986072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_30
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 667.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdcba87c20bbc84ba1156134b7c13b9
+      internalID: 943123806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_31
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 667.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8c3e1a36af876469958243c34d4907
+      internalID: 1934739443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_32
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 667.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c3412d2462799409c54e9ac4dd9d7c
+      internalID: 897140512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_33
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 667.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6025f5262a6fa845a7b57be225980c6
+      internalID: -570177175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_34
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 667.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6bee4f8f86836468fed5b6f775023e
+      internalID: -1082216145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_35
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 667.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df39b652099453e4e9af1ea713b8df3f
+      internalID: 868880030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 535.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5de048a24c4894cb0389af090dcdb2
+      internalID: 1466960065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_37
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 535.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f796fcc342639224591cee7da56479f3
+      internalID: -488734532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_38
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 535.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 785eaf282e5237e4cb71d6e5d6fb13ac
+      internalID: -547147928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_39
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 535.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03d0190cb0ae5c408e802f017add996
+      internalID: 1178108326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_40
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 535.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60052eef5efd5e4aa4d90ec0d68a3ba
+      internalID: 266802627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_41
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 535.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8946873fdf618f74e848aa0e0912501b
+      internalID: 38891603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_42
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 535.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eb49df0ef062742b6e2de389ccc7fb
+      internalID: -543199286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_43
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 535.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a19c698a6fd6e42b716e28a8a48e4a
+      internalID: -603520853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_44
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 535.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a91d59b85dab64296097d99b2a5e8b
+      internalID: -369364015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f11f1fb5973314dad833e0a99696d2
+      internalID: 966983852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 403.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0b06f5c7c165547a970ff6f091b12b
+      internalID: -1971335679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_47
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 403.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f139cd6e345273040b7ef4253cff04d4
+      internalID: -1947350301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_48
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 403.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b69a8cb9faaf94a9b96df12dcb4711
+      internalID: -1892694870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_49
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 403.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d293be94ab082a7438b55f6455e01e4a
+      internalID: 1684735377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_50
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 403.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba99d06e4be15a45a58e78552e93a1a
+      internalID: 1027162407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_51
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 403.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ba6827b50c5b544a56aa0e824846da
+      internalID: -1813558071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_52
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 403.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b0bd598b7e6cb4ab15c21a599e3881
+      internalID: -1600328674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_53
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 403.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc9d9ec6248046409a3abb9676347d6
+      internalID: 1252517252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 271.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7197cbdc6aab194b86db6061e1664c2
+      internalID: 1216382286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_55
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 271.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16b965a0a6c86144baa8f01b4d9782d3
+      internalID: 477001572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_56
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 271.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e18399ee1c6055b48aedf679a6319a70
+      internalID: -57862403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_57
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 271.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5d35f54a3bf9745bc5215ced9096f2
+      internalID: -1655039899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_58
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 271.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6426e3996fff53e42a22154c7e31bfc1
+      internalID: 1927006869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_59
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 271.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ae7edafaec7ec4286708d5931c0c5d
+      internalID: 981606886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_60
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 271.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9060831657e85124e978f948aa26f45b
+      internalID: 1375738924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_61
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 271.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef7dd14a71e32446b862245d7fa1e86
+      internalID: 1627284586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_62
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 271.1111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51579dc3b743b1d4ca970f944268c6c5
+      internalID: -1644657454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 139.11111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6fe33074409b04b899ae39bb9fef8e
+      internalID: 823938087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_64
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 139.11111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad50242006939474db11f1b98f28844b
+      internalID: 1748213107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_65
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 139.11111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d07f2e1640a3e0549808d007172ed6cd
+      internalID: -115494095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_66
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 139.11111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d434e676185a10848885ff0a32a01e8e
+      internalID: 322519907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_67
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 139.11111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a316d547cd79584cbf1410cbc62fda0
+      internalID: 1012801095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_68
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 139.11111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49d448c0c4dd924cbf29858462a7598
+      internalID: 938627195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_69
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 139.11111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2a78533d210cc408fce5e9c3d9c9a2
+      internalID: 1966180500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_70
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 139.11111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d959a599492669249a151f2396796cc6
+      internalID: -61334839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_71
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 139.11111
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c70e8b5a08f4fd40b9ca6c62745a491
+      internalID: 879023709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7.1111145
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee8133bda2d0b14ca33d846aeeda39e
+      internalID: 821568113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_73
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 7.1111145
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b57b54e643f671b43be5d9f51dca0798
+      internalID: -629551427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_74
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 7.1111145
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937f0d335bc1d11439264e5f3bc7f2be
+      internalID: 182817556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_75
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 7.1111145
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd05896947be9f747b7a2a37b1a3f1ca
+      internalID: 839962311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_76
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 7.1111145
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03157ccdff51314ca199cb17c46b340
+      internalID: -778491766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_77
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 7.1111145
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57508125223cb184d93a0ff40a92e73b
+      internalID: -1770749310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_78
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 7.1111145
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b898044220af5d7429f568a40387f823
+      internalID: 1227361871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_79
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 7.1111145
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad30f3cf6de77d84083c453838158002
+      internalID: 1343666535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sokoban_spritesheet@2_80
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 7.1111145
+        width: 133.33333
+        height: 132.88889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f27946850bf0af4bb5de5afe50d57ec
+      internalID: 1938582406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +1820,88 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sokoban_spritesheet@2_0: -2035106460
+      sokoban_spritesheet@2_1: 1399220801
+      sokoban_spritesheet@2_10: 639366791
+      sokoban_spritesheet@2_11: 966248934
+      sokoban_spritesheet@2_12: -1016093419
+      sokoban_spritesheet@2_13: -1306614208
+      sokoban_spritesheet@2_14: -1624680448
+      sokoban_spritesheet@2_15: -1233192211
+      sokoban_spritesheet@2_16: 1068639523
+      sokoban_spritesheet@2_17: 524678117
+      sokoban_spritesheet@2_18: 1913733796
+      sokoban_spritesheet@2_19: -1348429764
+      sokoban_spritesheet@2_2: -67002311
+      sokoban_spritesheet@2_20: -81802897
+      sokoban_spritesheet@2_21: -1432884897
+      sokoban_spritesheet@2_22: -1329528506
+      sokoban_spritesheet@2_23: 1511041650
+      sokoban_spritesheet@2_24: 933310702
+      sokoban_spritesheet@2_25: 2139886671
+      sokoban_spritesheet@2_26: 957776343
+      sokoban_spritesheet@2_27: -1453647586
+      sokoban_spritesheet@2_28: 1020187216
+      sokoban_spritesheet@2_29: 1452986072
+      sokoban_spritesheet@2_3: 394105563
+      sokoban_spritesheet@2_30: 943123806
+      sokoban_spritesheet@2_31: 1934739443
+      sokoban_spritesheet@2_32: 897140512
+      sokoban_spritesheet@2_33: -570177175
+      sokoban_spritesheet@2_34: -1082216145
+      sokoban_spritesheet@2_35: 868880030
+      sokoban_spritesheet@2_36: 1466960065
+      sokoban_spritesheet@2_37: -488734532
+      sokoban_spritesheet@2_38: -547147928
+      sokoban_spritesheet@2_39: 1178108326
+      sokoban_spritesheet@2_4: 2055708982
+      sokoban_spritesheet@2_40: 266802627
+      sokoban_spritesheet@2_41: 38891603
+      sokoban_spritesheet@2_42: -543199286
+      sokoban_spritesheet@2_43: -603520853
+      sokoban_spritesheet@2_44: -369364015
+      sokoban_spritesheet@2_45: 966983852
+      sokoban_spritesheet@2_46: -1971335679
+      sokoban_spritesheet@2_47: -1947350301
+      sokoban_spritesheet@2_48: -1892694870
+      sokoban_spritesheet@2_49: 1684735377
+      sokoban_spritesheet@2_5: -1780769116
+      sokoban_spritesheet@2_50: 1027162407
+      sokoban_spritesheet@2_51: -1813558071
+      sokoban_spritesheet@2_52: -1600328674
+      sokoban_spritesheet@2_53: 1252517252
+      sokoban_spritesheet@2_54: 1216382286
+      sokoban_spritesheet@2_55: 477001572
+      sokoban_spritesheet@2_56: -57862403
+      sokoban_spritesheet@2_57: -1655039899
+      sokoban_spritesheet@2_58: 1927006869
+      sokoban_spritesheet@2_59: 981606886
+      sokoban_spritesheet@2_6: -420010545
+      sokoban_spritesheet@2_60: 1375738924
+      sokoban_spritesheet@2_61: 1627284586
+      sokoban_spritesheet@2_62: -1644657454
+      sokoban_spritesheet@2_63: 823938087
+      sokoban_spritesheet@2_64: 1748213107
+      sokoban_spritesheet@2_65: -115494095
+      sokoban_spritesheet@2_66: 322519907
+      sokoban_spritesheet@2_67: 1012801095
+      sokoban_spritesheet@2_68: 938627195
+      sokoban_spritesheet@2_69: 1966180500
+      sokoban_spritesheet@2_7: -1796768146
+      sokoban_spritesheet@2_70: -61334839
+      sokoban_spritesheet@2_71: 879023709
+      sokoban_spritesheet@2_72: 821568113
+      sokoban_spritesheet@2_73: -629551427
+      sokoban_spritesheet@2_74: 182817556
+      sokoban_spritesheet@2_75: 839962311
+      sokoban_spritesheet@2_76: -778491766
+      sokoban_spritesheet@2_77: -1770749310
+      sokoban_spritesheet@2_78: 1227361871
+      sokoban_spritesheet@2_79: 1343666535
+      sokoban_spritesheet@2_8: 1326488956
+      sokoban_spritesheet@2_80: 1938582406
+      sokoban_spritesheet@2_9: -1790421688
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
